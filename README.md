@@ -2,13 +2,16 @@
 
 ## Github包名 
 dahuotu.image2base64.win
-[link]ddd[/link]
 
 ## 功能介绍：
 图片批量转Base64工具，绿色、小巧、无毒、免安装、开源，支持单张图片转Base64、支持选择多张图片转Base64、支持选择文件夹读取图片直接批量转Base64、默认显示图片路径并且提供生成普通Base64代码、生成带有图片头信息的Base64代码；也可以生成HTML标准Img标签调用代码、生成css样式调用代码、生成小程序Image标签调用代码。
 ## 功能展示
 
 ## 支持系统
+#### WindowsXp
+#### Windows7
+#### Windows8
+#### Windows10
 
 ## 更新日志：
 2020-12-17
