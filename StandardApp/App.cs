@@ -51,7 +51,7 @@ namespace com.DaHuotu
         //软件介绍
         private void useHelpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("https://www.dahuotu.com/contact.html");
+            Process.Start("https://www.dahuotu.com/image2base64.html");
         }
 
         //菜单联系作者
